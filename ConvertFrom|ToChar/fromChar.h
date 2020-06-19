@@ -3,7 +3,8 @@
 
 unsigned mantiss;
 template<typename T, std::enable_if_t<std::is_arithmetic_v<T>, bool> =true>
-[[maybe_unused]] std::from_chars_result char_res(const char* f, const char* l,T& val)	//because I may use std::from_chars directly
+[[maybe_unused]] std::from_chars_result char_res(const char* f, const char* l,T& val)	// [[maybe_unused]] because I may use 
+											// std::from_chars directly
 {
 	std::from_chars_result res;
 	unsigned point{};
