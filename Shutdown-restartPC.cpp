@@ -13,7 +13,7 @@ void ShutdownPC(void)
 int main()
 {
 	char c, res;
-	cout << "What do you want to do? :";
+	cout << "What do you want to do? r(Restar) | s(shutdown):";
 	cin >> c;
 	switch (c)
 	{
@@ -26,7 +26,7 @@ int main()
 	case 's':
 		cout << "Do you want really to Shutdown you Pc?: [y/n] ";
 		cin >> res;
-		if (res == 's')
+		if (res == 'y')
 			ShutdownPC();
 		break;
 	}
