@@ -1,0 +1,14 @@
+
+write an algo to show the results below:
+
+N    ==>            output
+
+0    ==>    
+1    ==>  -1 0 3
+2    ==>  -4 -3 0
+3    ==>  -9 -8 -5 10
+4    ==>  -16 -15 -12 3
+5    ==>  -25 -24 -21 -6 99
+6    ==>  -36 -35 -32 -17 88
+
+hint: if n is even you have to stop the loop at (n/2)(include) otherwise at (n+1)/2(include)
