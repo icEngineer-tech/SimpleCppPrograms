@@ -12,3 +12,8 @@ N    ==>            output
 6    ==>  -36 -35 -32 -17 88
 
 hint: if n is even you have to stop the loop at (n/2)(include) otherwise at (n+1)/2(include)
+
+
+result:
+the output = -(n)² + prod(k=0, n/2) (2*k+1) if n is even
+             -(n)² + prod(k=0, n+1/2) (2*k+1) otherwise
