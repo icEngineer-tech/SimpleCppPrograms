@@ -5,9 +5,13 @@
 std::vector<float> fill_algo(float);
 int main()
 {
-	std::cout << "Enter a number: ";
 	float n{};
-	std::cin >> n;
+	do
+	{
+		std::cout << "Enter a number: ";
+
+		std::cin >> n;
+	} while (n < 0.0 && n>1.0);
 	n *= std::numbers::pi;
 	std::vector<float>s;
 	s = fill_algo(n);
