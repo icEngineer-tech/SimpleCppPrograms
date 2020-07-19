@@ -33,11 +33,8 @@ int main()
 {
 //------------------- 1st version --------------------------------
 	std::vector<std::string> v{ "I am","a C++","Programmer","here" };
-	std::cout << v.size() << '\n';
 	JoinStrings(32, v);
-	std::cout << v.size() << '\n';
-	for (auto i : v)
-		std::cout << i;
+	std::cout << v.at(0);
 
 
 //------------------ 2nd version -----------------------------------
