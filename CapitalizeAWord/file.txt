@@ -1,0 +1,3 @@
+A compiler is a special program that processes statements written in a particular programming language like C++ and turns 
+them into machine language or "/code" ^that a computer's processor uses. 
+I actually wrote this article because I had a C++ assignment which required using a compiler.
