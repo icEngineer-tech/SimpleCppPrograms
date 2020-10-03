@@ -52,4 +52,5 @@ int main() {
       // init data
       auto rmin = pmin(std::begin(data), std::end(data));
       auto rmax = pmin(std::begin(data), std::end(data));
+      return 0;
 }
