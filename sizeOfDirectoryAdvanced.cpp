@@ -1,4 +1,4 @@
-#define _SILENCE_EXPERIMENTAL_FILESYSTEM_DEPRECATION_WARNING
+#define _SILENCE_EXPERIMENTAL_FILESYSTEM_DEPRECATION_WARNING //because it's deprecated by Microsoft (if you use MSVC++)
 #include <iostream>
 #include <experimental/filesystem>
 #include <numeric>
