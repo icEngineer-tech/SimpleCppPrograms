@@ -1,0 +1,17 @@
+UTC−12: United States Minor Outlying Islands (Baker Island, Howland Island)
+UTC-11: American Samoa, Niue Niue, United States Minor Outlying Islands (Jarvis Island, Kingman Reef, Midway Atoll, Palmyra Atoll)
+UTC-10: Cook Islands, French Polynesia (Tahiti), United States (Hawaii Hawaii), United States Minor Outlying Islands (Johnston Atoll)
+UTC-9: French Polynesia (Gambier Islands)
+UTC-8: Pitcairn Islands, France Clipperton Island
+UTC-7: Canada (Yukon Yukon), Mexico (Sonora Sonora), United States (Arizona Arizona (most))
+UTC-6: Belize, Canada (Saskatchewan Saskatchewan (most)), Costa Rica, Ecuador (Galápagos Islands), El Salvador, Guatemala, Honduras, Nicaragua
+UTC-5: Brazil (Acre), Canada (Nunavut Nunavut (entire Southampton Island (Coral Harbour)), Ontario(west of 90° West: Atikokan area and New Osnaburgh/Pickle Lake area)), Cayman Islands Cayman Islands, Colombia, Ecuador (main territory), Jamaica, Mexico (Quintana Roo Quintana Roo (most)), Panama, Peru, United States Minor Outlying Islands (Navassa Island Navassa Island)
+UTC-4: Saint Vincent and the Grenadines, Sint Maarten Sint Maarten, Trinidad and Tobago, United States Virgin Islands US Virgin Islands, Venezuela Venezuela
+UTC-3: Argentina, Brazil Brazil (most), Chile Chile (Magallanes), Falkland Islands Falkland Islands, French Guiana French Guiana, Suriname Suriname, Uruguay
+UTC-2: South Georgia and the South Sandwich Islands
+UTC-1: Cape Verde
+UTC 0: Burkina Faso, The Gambia Gambia, Ghana, Greenland Greenland (Danmarkshavn), Guinea Guinea, Guinea-Bissau Guinea-Bissau, Iceland, Ivory Coast, Liberia Liberia, Mali, Mauritania Mauritania, Saint Helena, Senegal, Sierra Leone, São Tomé and Príncipe, Togo
+UTC+1: Algeria, Angola, Benin, Cameroon, Central African Republic, Chad, Democratic Republic of the Congo (western part), Equatorial Guinea Equatorial Guinea, Gabon, Morocco, Niger, Nigeria, Tunisia, Western Sahara
+UTC+2: South Africa (main territory), Sudan, Zambia,Zimbabwe
+UTC+3: Ethiopia, raq, Kenya, Kuwait, Madagascar, Mayotte, Qatar, Russia
+UTC+4: Mauritius, Oman
