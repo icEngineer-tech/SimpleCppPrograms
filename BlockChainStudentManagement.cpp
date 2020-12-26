@@ -6,14 +6,10 @@
 class Student
 {
 	static unsigned short hash;
-	std::vector<char> ALP;
+	static std::vector<char> ALP;
 	static std::vector<unsigned short> NONCE;
 public:
-	Student() 
-	{ 
-		for (auto i = 65; i < 91; i++)
-			ALP.push_back(char(i));
-	}
+	Student() {}
 	_NODISCARD void addStudent(std::string subject, std::string pid, char grade)
 	{
 		std::cout << "\t\t\t\t\tPrevious hash is: " << hash << '\n';
@@ -46,6 +42,7 @@ public:
 };
 unsigned short Student::hash= rand() % 51 + 200;
 std::vector<unsigned short> Student::NONCE{ 1,2,3 };
+std::vector<char> Student::ALP{'A','B','C','D','E','F','G','H','I','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'};
 int main()
 {
 	Student s;
