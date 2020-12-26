@@ -19,7 +19,7 @@ public:
 		std::cout << "\t\t\t\t\tPrevious hash is: " << hash << '\n';
 		auto res_sub = std::find(ALP.begin(), ALP.end(), std::toupper(subject.at(0)));
 		auto res_pid = std::find(ALP.begin(), ALP.end(), std::toupper(pid.at(0)));
-		if (res_sub == ALP.end() && res_pid == ALP.end())
+		if (res_sub == ALP.end() || res_pid == ALP.end())
 			throw std::string("Error while getting entries for "+subject+"! Please try again");
 		unsigned a = (int)(std::toupper(subject.at(0)));
 		unsigned b = (int)(std::toupper(pid.at(0)));
